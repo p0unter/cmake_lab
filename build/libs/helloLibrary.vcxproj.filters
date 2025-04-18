@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Winner\Desktop\Cpp\cmake_lab\libs\hello\hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Winner\Desktop\Cpp\cmake_lab\libs\hello\hello.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Winner\Desktop\Cpp\cmake_lab\libs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{769561B7-D88E-3A64-89D8-6AF1FBDC6400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C16336CF-9983-32F6-BC80-DF2BDEE7B549}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

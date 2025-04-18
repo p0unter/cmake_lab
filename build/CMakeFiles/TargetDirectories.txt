@@ -1,0 +1,4 @@
+C:/Users/Winner/Desktop/Cpp/cmake_lab/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Winner/Desktop/Cpp/cmake_lab/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Winner/Desktop/Cpp/cmake_lab/build/libs/CMakeFiles/helloLibrary.dir
+C:/Users/Winner/Desktop/Cpp/cmake_lab/build/app/CMakeFiles/HelloCMake.dir
